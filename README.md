@@ -16,7 +16,7 @@ This project presents an interactive **Sales and Order Analysis Dashboard** buil
 - Customer Segment Analysis: Breaks down orders across Consumer, Corporate, and Home Office segments.
 - Interactive Filters: Enables users to explore results by state and region for more focused analysis.
 
-* Key Insights:
+# Key Insights:
 - The dashboard records approximately $2.30M in sales and $286.4K in total profit, with an overall profit margin of 12.47%.
 - The Consumer segment leads with 2,586 orders, followed by Corporate with 1,514 and Home Office with 909.
 - Standard Class has the highest order volume among the displayed shipping methods across all four regions.
