@@ -1,15 +1,15 @@
 # Sample-Superstore-Order-Analysis
 
-* Project Overview:
+ Project Overview:
 This project presents an interactive **Sales and Order Analysis Dashboard** built using the Sample Superstore dataset. It provides insights into order trends, sales performance, profitability, shipping methods, regional distribution, and customer segments to support data-driven business decisions.
 
-* Key Performance Indicators (KPIs):
+ Key Performance Indicators (KPIs):
 - Total Orders: 5,009
 - Total Sales: $2.30 Million
 - Total Profit: $286.4K
 - Profit Margin: 12.47%
 
-* Dashboard Features:
+ Dashboard Features:
 - Monthly Order Trends: Visualizes changes in order volume over time to identify fluctuations and seasonal patterns.
 - Shipping Mode Analysis: Compares order distribution across shipping methods and regions to understand shipping preferences.
 - State-wise Order Analysis: Uses a geographical map to highlight order distribution across the United States.
