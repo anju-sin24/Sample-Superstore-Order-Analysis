@@ -23,14 +23,14 @@ This project presents an interactive **Sales and Order Analysis Dashboard** buil
 - Order volumes fluctuate month to month, highlighting opportunities to investigate seasonal patterns and changes in demand.
 - The state-level map reveals geographical differences in order distribution, helping identify major markets and areas for further analysis.
 
-* Tools & Technologies:
+# Tools & Technologies:
 - Tableau – Dashboard development and interactive visualizations
 - Sample Superstore Dataset – Data source
 - Data Analysis & Visualization – KPI tracking, trend analysis, geographical analysis, and customer segmentation
 
-* Project Objective:
+# Project Objective:
 The objective of this project is to transform raw retail data into meaningful business insights through interactive visualizations, helping stakeholders evaluate performance, understand customer behavior, and identify opportunities for sales and operational improvement.
 
-* Conclusion:
+# Conclusion:
 This dashboard demonstrates practical skills in business intelligence, data visualization, KPI development, and exploratory data analysis. It provides a consolidated view of Superstore performance and supports data-driven decision-making.
 
