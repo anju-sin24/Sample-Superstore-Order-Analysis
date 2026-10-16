@@ -1,4 +1,4 @@
-# Sample-Superstore-Order-Analysis
+## Sample-Superstore-Order-Analysis
 
 # Project Overview:
 This project presents an interactive **Sales and Order Analysis Dashboard** built using the Sample Superstore dataset. It provides insights into order trends, sales performance, profitability, shipping methods, regional distribution, and customer segments to support data-driven business decisions.
