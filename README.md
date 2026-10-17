@@ -4,7 +4,7 @@
 
 The Sample Superstore Sales Dashboard is an interactive Tableau dashboard created to analyze sales, profit, orders, and customer purchasing patterns. It provides a clear overview of business performance and helps users understand sales trends, regional performance, shipping methods, and customer segments.
 
-## Business Problem
+## Business Problem :
 
 Businesses generate large amounts of sales and order data, making it difficult to monitor overall performance and identify areas for improvement. This project transforms raw data into an interactive dashboard that helps users track key performance indicators (KPIs) and analyze sales performance across different regions and customer segments.
 
@@ -16,13 +16,13 @@ The dashboard focuses on:
 * Shipping mode and regional performance
 * Customer segment analysis
 
-## Objective of the Dashboard
+## Objective of the Dashboard :
 
 The main objective is to provide an interactive business intelligence dashboard that helps users monitor sales performance, evaluate profitability, and understand order distribution.
 
 The dashboard allows users to explore business performance through key metrics, charts, maps, and filters.
 
-## Tools & Technologies
+## Tools & Technologies :
 
 * Tableau Desktop – Dashboard creation and data visualization
 * Sample Superstore Dataset – Sales and order analysis
@@ -30,7 +30,7 @@ The dashboard allows users to explore business performance through key metrics, 
 * Data Visualization – Charts, maps, KPI cards, and tables
 * Interactive Filters – State and region-based analysis
 
-## Data Source
+## Data Source :
 
 Source: Sample Superstore dataset used for sales and order analysis in Tableau.
 
@@ -46,7 +46,7 @@ The dataset contains approximately 9,994 rows and 25 fields, including informati
 
 The dataset was connected to Tableau and used to create visualizations for analyzing business performance.
 
-## Features / Highlights
+## Features / Highlights :
 
 Key Performance Indicators (KPIs)
 
@@ -59,7 +59,7 @@ The dashboard displays the following key metrics:
 
 These KPIs provide a quick overview of the business’s overall sales and profitability.
 
-- Sales and Order Analysis
+! Sales and Order Analysis
 
 * Monthly order trends using a line chart
 * Total number of orders by state using a geographical map
