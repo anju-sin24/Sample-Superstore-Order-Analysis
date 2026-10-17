@@ -59,7 +59,7 @@ The dashboard displays the following key metrics:
 
 These KPIs provide a quick overview of the business’s overall sales and profitability.
 
-! Sales and Order Analysis
+* Sales and Order Analysis
 
 * Monthly order trends using a line chart
 * Total number of orders by state using a geographical map
