@@ -59,22 +59,22 @@ The dashboard displays the following key metrics:
 
 These KPIs provide a quick overview of the business’s overall sales and profitability.
 
-* Sales and Order Analysis
+Sales and Order Analysis:
 
 * Monthly order trends using a line chart
 * Total number of orders by state using a geographical map
 * Regional order distribution across shipping modes
 * Customer order comparison by segment
 
-- Regional Analysis
+Regional Analysis:
 
 The geographical map displays order distribution across states, helping users identify areas with higher and lower order volumes.
 
-- Shipping Analysis
+Shipping Analysis:
 
 The table compares orders across different shipping modes, including First Class, Second Class, Standard Class, and Same Day, across the Central, East, South, and West regions.
 
-- Customer Segment Analysis
+Customer Segment Analysis:
 
 The dashboard compares orders across three customer segments:
 
@@ -84,14 +84,14 @@ The dashboard compares orders across three customer segments:
 
 This helps users understand which customer segment contributes the highest number of orders.
 
-- Interactive Filters
+Interactive Filters:
 
 * State filter
 * Region filter
 
 These filters allow users to explore specific geographical areas and compare business performance.
 
-## Key Insights
+## Key Insights :
 
 The dashboard helps identify:
 
@@ -102,7 +102,7 @@ The dashboard helps identify:
 * Customer segments generating the highest order volumes
 * Opportunities to improve regional sales and operational performance
 
-## Dashboard Preview
+## Dashboard Preview :
 
 The dashboard includes KPI cards, a monthly order trend line chart, a state-wise geographical map, a shipping mode and region comparison table, and a customer segment analysis.
 
